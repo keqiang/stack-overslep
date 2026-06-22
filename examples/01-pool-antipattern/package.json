@@ -1,9 +1,0 @@
-{
-  "name": "example-01-pool-antipattern",
-  "private": true,
-  "type": "module",
-  "description": "Anti-pattern: module-level pg Pool in a serverless app keeps Neon awake.",
-  "dependencies": {
-    "pg": "^8.13.1"
-  }
-}
